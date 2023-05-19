@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Agrawaldivya/fitfinityfitness.git/static/css/main.7c3bcc74.css",
+    "main.js": "/Agrawaldivya/fitfinityfitness.git/static/js/main.5ebc9798.js",
+    "static/media/heart.jpg": "/Agrawaldivya/fitfinityfitness.git/static/media/heart.7c62908754fa33bfb45e.jpg",
+    "static/media/image2.jpg": "/Agrawaldivya/fitfinityfitness.git/static/media/image2.e16d008103774c126354.jpg",
+    "static/media/image2T.jpg": "/Agrawaldivya/fitfinityfitness.git/static/media/image2T.fe20e92c769bd80b088c.jpg",
+    "static/media/image3.jpg": "/Agrawaldivya/fitfinityfitness.git/static/media/image3.fbcdd9ef636ff9f9b0b1.jpg",
+    "static/media/image4.jpg": "/Agrawaldivya/fitfinityfitness.git/static/media/image4.9de298c57d9c3ace2d3a.jpg",
+    "static/media/first_photo0.png": "/Agrawaldivya/fitfinityfitness.git/static/media/first_photo0.1e98d322aabab44447e8.png",
+    "static/media/calories.png": "/Agrawaldivya/fitfinityfitness.git/static/media/calories.15dc5023ca1fb739da94.png",
+    "static/media/adidas.png": "/Agrawaldivya/fitfinityfitness.git/static/media/adidas.83e03bc69f59678a2103.png",
+    "static/media/image3T.png": "/Agrawaldivya/fitfinityfitness.git/static/media/image3T.6b71cb18e636c591d287.png",
+    "static/media/rightArrow.png": "/Agrawaldivya/fitfinityfitness.git/static/media/rightArrow.6961357ff37d974ae51f.png",
+    "static/media/puma.jpg": "/Agrawaldivya/fitfinityfitness.git/static/media/puma.3b1f0fbf79d9b5e9b23b.jpg",
+    "static/media/insta.png": "/Agrawaldivya/fitfinityfitness.git/static/media/insta.ed5ed57e98d053cf1e55.png",
+    "static/media/Github.png": "/Agrawaldivya/fitfinityfitness.git/static/media/Github.3ec61b93854178c47369.png",
+    "static/media/image1T.jpg": "/Agrawaldivya/fitfinityfitness.git/static/media/image1T.9a235cdc569304764a94.jpg",
+    "static/media/image1.jpg": "/Agrawaldivya/fitfinityfitness.git/static/media/image1.56f12fda32c0bb6e4c12.jpg",
+    "static/media/tick.png": "/Agrawaldivya/fitfinityfitness.git/static/media/tick.c66b806611a77baa187d.png",
+    "static/media/nike.png": "/Agrawaldivya/fitfinityfitness.git/static/media/nike.404da592cf02a97c65ec.png",
+    "static/media/logo.png": "/Agrawaldivya/fitfinityfitness.git/static/media/logo.5d383310a1049247f88f.png",
+    "static/media/bars.png": "/Agrawaldivya/fitfinityfitness.git/static/media/bars.d4c67295f2c03f80547d.png",
+    "static/media/leftArrow.png": "/Agrawaldivya/fitfinityfitness.git/static/media/leftArrow.03383374fb5ec00044b5.png",
+    "index.html": "/Agrawaldivya/fitfinityfitness.git/index.html",
+    "main.7c3bcc74.css.map": "/Agrawaldivya/fitfinityfitness.git/static/css/main.7c3bcc74.css.map",
+    "main.5ebc9798.js.map": "/Agrawaldivya/fitfinityfitness.git/static/js/main.5ebc9798.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c3bcc74.css",
+    "static/js/main.5ebc9798.js"
+  ]
+}
